@@ -9,20 +9,19 @@ const inter = Inter({
 });
 
 export const viewport: Viewport = {
-  themeColor: "#15803d",
+  themeColor: "#0f766e",
   width: "device-width",
   initialScale: 1,
 };
 
 export const metadata: Metadata = {
-  title: "SuperVerde | Supermercado & Delivery Online de Alta Performance",
+  title: "Sorriso & Saúde | Odontologia humanizada",
   description:
-    "Template moderno de e-commerce e vitrine para Supermercados de Pequeno, Médio e Grande Porte. Hortifrúti fresco, Açougue, Padaria, Mercearia, Catálogo Inteligente, Tabloide Digital e PWA.",
-  manifest: "/manifest.json",
+    "Cuidado odontológico completo, tecnologia e atendimento humanizado para você sorrir com confiança.",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "SuperVerde",
+    title: "Sorriso & Saúde",
   },
 };
 
